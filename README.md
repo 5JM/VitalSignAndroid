@@ -1,2 +1,5 @@
-# VitalSignAndroid
-생체 신호 추론 안드로이드 앱 및 라이브러리
+# 유앤아워스 안드로이드 프로젝트
+
+`데모영상`
+
+<img src = "./unours_demo.gif">
